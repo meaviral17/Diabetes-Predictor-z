@@ -7,3 +7,4 @@
 Deployed at: _https://predicting-diabetes.herokuapp.com/_
 
 Demo:
+![1c](https://user-images.githubusercontent.com/81246801/147808309-846ca68b-dba8-4a26-b863-68039bb3bf73.png)
